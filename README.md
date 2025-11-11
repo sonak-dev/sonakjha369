@@ -88,10 +88,6 @@ Software Engineering Fundamentals: Clean Code, Folder Architecture, MVC
 
 ---
 
-## 🏆 GitHub Stats
-
-![Sonak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonak1029&show_icons=true&theme=dark)
-
 ## 💡 Fun Fact
 I’m a firm believer in constant learning and teamwork. When I’m not coding, you’ll find me on the field playing cricket or football! 🏏⚽
 
