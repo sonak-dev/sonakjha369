@@ -11,15 +11,20 @@ I’m a dedicated learner who enjoys building real-world projects and understand
 🌟 Skills
 
 Backend Development: Node.js, Express.js
+
 Programming Languages: C++
+
 Authentication & Security: JWT, Bcrypt, RBAC
+
 Web Development: HTML, CSS, JavaScript
+
 Databases: MongoDB
+
 Version Control: Git & GitHub
+
 Tools & Frameworks: Visual Studio Code, GitHub Actions
 
 ---
-
 
 📦 Featured Project
 
@@ -30,12 +35,18 @@ A practical backend service to manage user subscriptions, renewals, and automate
 Highlights:
 
 Track active, expired, and upcoming subscriptions
+
 CRUD APIs for subscription plans
+
 Renewal reminder logic
+
 Clean and modular backend structure
+
 MongoDB-based subscription storage
+
 🔗 Project Repo: https://github.com/sonak-dev/Subscription-Tracking-API
 
+---
 
 ✅ Role-Based Access Control (RBAC) API
 
@@ -44,18 +55,27 @@ A secure and scalable Node.js backend using Express, JWT, Bcrypt, MongoDB, and R
 Highlights:
 
 JWT Authentication (Login + Token Verification)
+
 Role-Based Authorization (Admin, Manager, User)
+
 Clean Middleware Architecture
+
 Secure Password Hashing
+
 Real-world API structure
+
 🔗 Project Repo: (https://github.com/sonak-dev/role-based-access-control)
 
+---
 
 🔥 Current Focus Areas
 
 Backend Engineering: REST APIs, Authentication, Middleware, Role-Based Access Control
+
 Full Stack Development: React.js, Angular
+
 Data Structures & Algorithms: Problem-solving mindset and logic building
+
 Software Engineering Fundamentals: Clean Code, Folder Architecture, MVC
 
 ---
