@@ -2,25 +2,61 @@
 
 <img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="150" height="150">
 
-### 🚀 Aspiring Software Engineer | Passionate about Code & Technology  
-I’m a software engineering enthusiast with a passion for exploring new technologies, solving coding challenges, and building scalable applications. I enjoy collaborating on exciting projects that push the boundaries of innovation.
+🚀 Aspiring Software Engineer | Passionate about Backend, Databases & Scalable Systems
+
+I’m a dedicated learner who enjoys building real-world projects and understanding how systems work behind the scenes. My current focus is on mastering backend development, APIs, databases, and creating clean, maintainable, scalable applications.
 
 ---
 
-## 🌟 Skills
+🌟 Skills
 
-- **Programming Languages:** C, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Databases:** MySQL
-- **Version Control:** Git, GitHub  
-- **Tools & Frameworks:** GitHub Actions, Visual Studio Code
+Backend Development: Node.js, Express.js
+Programming Languages: C++
+Authentication & Security: JWT, Bcrypt, RBAC
+Web Development: HTML, CSS, JavaScript
+Databases: MongoDB
+Version Control: Git & GitHub
+Tools & Frameworks: Visual Studio Code, GitHub Actions
 
 ---
 
-## 🔥 Current Focus Areas
 
-- **Full Stack Web Development:** React.js, Angular, Node.js
-- **Data Structures and Algorithms:** Improving problem-solving skills
+📦 Featured Project
+
+✅ Subscription Tracking Management System
+
+A practical backend service to manage user subscriptions, renewals, and automated status updates.
+
+Highlights:
+
+Track active, expired, and upcoming subscriptions
+CRUD APIs for subscription plans
+Renewal reminder logic
+Clean and modular backend structure
+MongoDB-based subscription storage
+🔗 Project Repo: https://github.com/sonak-dev/Subscription-Tracking-API
+
+
+✅ Role-Based Access Control (RBAC) API
+
+A secure and scalable Node.js backend using Express, JWT, Bcrypt, MongoDB, and RBAC middleware.
+
+Highlights:
+
+JWT Authentication (Login + Token Verification)
+Role-Based Authorization (Admin, Manager, User)
+Clean Middleware Architecture
+Secure Password Hashing
+Real-world API structure
+🔗 Project Repo: (https://github.com/sonak-dev/role-based-access-control)
+
+
+🔥 Current Focus Areas
+
+Backend Engineering: REST APIs, Authentication, Middleware, Role-Based Access Control
+Full Stack Development: React.js, Angular
+Data Structures & Algorithms: Problem-solving mindset and logic building
+Software Engineering Fundamentals: Clean Code, Folder Architecture, MVC
 
 ---
 
