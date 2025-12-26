@@ -1,96 +1,76 @@
 # 👋 Hi, I'm Sonak Jha
 
-<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="150" height="150"/>
 
-🚀 Aspiring Software Engineer | Passionate about Backend, Databases & Scalable Systems
+🚀 Aspiring Software Engineer | Passionate about Backend Development, Databases & Scalable Systems
 
-I’m a dedicated learner who enjoys building real-world projects and understanding how systems work behind the scenes. My current focus is on mastering backend development, APIs, databases, and creating clean, maintainable, scalable applications.
-
----
-
-🌟 Skills
-
-Backend Development: Node.js, Express.js
-
-Programming Languages: C++
-
-Authentication & Security: JWT, Bcrypt, RBAC
-
-Web Development: HTML, CSS, JavaScript
-
-Databases: MongoDB
-
-Version Control: Git & GitHub
-
-Tools & Frameworks: Visual Studio Code, GitHub Actions
+I’m a backend-focused developer who enjoys building real-world projects and understanding how systems work behind the scenes. My current focus is on mastering backend development, APIs, databases, and writing clean, maintainable, and scalable code.
 
 ---
 
-📦 Featured Project
+## 🌟 Skills
 
-✅ Subscription Tracking Management System
-
-A practical backend service to manage user subscriptions, renewals, and automated status updates.
-
-Highlights:
-
-Track active, expired, and upcoming subscriptions
-
-CRUD APIs for subscription plans
-
-Renewal reminder logic
-
-Clean and modular backend structure
-
-MongoDB-based subscription storage
-
-🔗 Project Repo: https://github.com/sonak-dev/Subscription-Tracking-API
+**Backend Development:** Node.js, Express.js  
+**Programming Languages:** JavaScript (ES6+), C++  
+**Authentication & Security:** JWT, Bcrypt, RBAC  
+**Web Development:** HTML, CSS, JavaScript  
+**Databases:** MongoDB  
+**Version Control:** Git & GitHub  
+**Tools & Platforms:** VS Code, GitHub Actions  
 
 ---
 
-✅ Role-Based Access Control (RBAC) API
+## 📦 Featured Projects
 
-A secure and scalable Node.js backend using Express, JWT, Bcrypt, MongoDB, and RBAC middleware.
+### ✅ Subscription Tracking Management System  
+A backend service to manage user subscriptions, renewals, and status updates.
 
-Highlights:
+**Highlights**
+- Track active, expired, and upcoming subscriptions  
+- CRUD APIs for subscription plans  
+- Renewal reminder logic  
+- Clean and modular backend structure  
+- MongoDB-based storage  
 
-JWT Authentication (Login + Token Verification)
-
-Role-Based Authorization (Admin, Manager, User)
-
-Clean Middleware Architecture
-
-Secure Password Hashing
-
-Real-world API structure
-
-🔗 Project Repo: (https://github.com/sonak-dev/role-based-access-control)
+🔗 **Repo:** https://github.com/sonak-dev/Subscription-Tracking-API  
 
 ---
 
-🔥 Current Focus Areas
+### ✅ Role-Based Access Control (RBAC) API  
+A secure Node.js backend using Express, JWT, Bcrypt, MongoDB, and RBAC middleware.
 
-Backend Engineering: REST APIs, Authentication, Middleware, Role-Based Access Control
+**Highlights**
+- JWT authentication (Login + Token verification)  
+- Role-based authorization (Admin, Manager, User)  
+- Reusable middleware architecture  
+- Secure password hashing  
+- Real-world REST API structure  
 
-Full Stack Development: React.js, Angular
+🔗 **Repo:** https://github.com/sonak-dev/role-based-access-control  
 
-Data Structures & Algorithms: Problem-solving mindset and logic building
+---
 
-Software Engineering Fundamentals: Clean Code, Folder Architecture, MVC
+## 🔥 Current Focus
+
+- Backend Engineering — REST APIs, Authentication, Middleware, RBAC  
+- Full-Stack Learning — React.js & Angular  
+- Data Structures & Algorithms — Problem-solving mindset  
+- Software Engineering — Clean Code, Project Architecture, MVC  
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [sonakjha369@gmail.com](mailto:sonakjha369@gmail.com)
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/sonak-jha7692/)
-- 🖥️ [**GitHub Profile**](https://github.com/sonak1029/sonakjha369)
+📧 **Email:** sonakjha369@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sonak-jha7692/  
+💻 **GitHub:** https://github.com/sonak1029/sonakjha369  
 
 ---
 
 ## 💡 Fun Fact
-I’m a firm believer in constant learning and teamwork. When I’m not coding, you’ll find me on the field playing cricket or football! 🏏⚽
+I believe in continuous learning and teamwork.  
+When I’m not coding, you’ll probably find me on the cricket or football field! 🏏⚽
 
 ---
 
-> **“The journey of a thousand miles begins with a single step.”**
+> _"The journey of a thousand miles begins with a single step."_
