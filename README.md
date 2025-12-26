@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonak Jha
 
-<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="300" height="350"/>
+<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="500" height="550"/>
 
 🚀 Aspiring Software Engineer | Passionate about Backend Development, Databases & Scalable Systems
 
