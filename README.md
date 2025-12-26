@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonak Jha
 
-<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="150" height="150"/>
+<img src="https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c" alt="sonak_image" width="250" height="250"/>
 
 🚀 Aspiring Software Engineer | Passionate about Backend Development, Databases & Scalable Systems
 
@@ -63,7 +63,7 @@ A secure Node.js backend using Express, JWT, Bcrypt, MongoDB, and RBAC middlewar
 
 📧 **Email:** sonakjha369@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sonak-jha7692/  
-💻 **GitHub:** https://github.com/sonak1029/sonakjha369  
+💻 **GitHub:** https://github.com/sonak-dev/sonakjha369  
 
 ---
 
